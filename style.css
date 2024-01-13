@@ -132,7 +132,7 @@ font-family: "Salsa", cursive;
         height: 70vh;
         width: 100%;
         /* top:200%; */
-        margin-top: 1169px;
+        margin-top: 1500px;
         padding: 30px 4px;
         display: flex;
         justify-content: center;
@@ -146,7 +146,7 @@ font-family: "Salsa", cursive;
     #audio h2{
         position: absolute;
         right: 10%;
-        margin-top: 700px;
+        margin-top: 1000px;
     }
    
     
